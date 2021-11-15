@@ -1,0 +1,14 @@
+C:\Users\echrk\source\repos\Week9b\Problem1test\bin\Debug\Problem1test.exe.config
+C:\Users\echrk\source\repos\Week9b\Problem1test\bin\Debug\Problem1test.exe
+C:\Users\echrk\source\repos\Week9b\Problem1test\bin\Debug\Problem1test.pdb
+C:\Users\echrk\source\repos\Week9b\Problem1test\bin\Debug\Problem1.dll
+C:\Users\echrk\source\repos\Week9b\Problem1test\bin\Debug\Problem1.pdb
+C:\Users\echrk\source\repos\Week9b\Problem1test\bin\Debug\Problem1.dll.config
+C:\Users\echrk\source\repos\Week9b\Problem1test\obj\Debug\Problem1test.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\Week9b\Problem1test\obj\Debug\Problem1test.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week9b\Problem1test\obj\Debug\Problem1test.csproj.CopyComplete
+C:\Users\echrk\source\repos\Week9b\Problem1test\obj\Debug\Problem1test.exe
+C:\Users\echrk\source\repos\Week9b\Problem1test\obj\Debug\Problem1test.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week9b\Week9b\Problem1test\obj\Debug\Problem1test.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week9b\Week9b\Problem1test\obj\Debug\Problem1test.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week9b\Week9b\Problem1test\obj\Debug\Problem1test.pdb
